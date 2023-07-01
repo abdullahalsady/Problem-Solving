@@ -10,5 +10,5 @@
 4. [Calculate Factorial](./Simple-Problem/calculate_factorial.py)
 5. [Reverse String](./Simple-Problem/reverse_string.py)
 6. [Fibonacci Sequence](./Simple-Problem/fibonacci_sequence.py)
-
+7. [Celsius to Fahrenheit](./Simple-Problem/celsius_to_fahrenheit.py)
 </div>
