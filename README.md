@@ -2,7 +2,7 @@
 
 ## **Simple Problem** :octocat:
 
-<div style="overflow-y: scroll; height: 250px; scroll-behavior: smooth;">
+<div style="overflow-y: scroll; height: 200px; scroll-behavior: smooth;">
 
 1. [Odd Even Number](./Simple-Problem/odd_even.py)
 2. [Prime Composite Number](./Simple-Problem/prime_composite.py)
