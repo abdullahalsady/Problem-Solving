@@ -12,9 +12,9 @@
 6. [Fibonacci Sequence](./Simple-Problem/fibonacci_sequence.py)
 7. [Celsius to Fahrenheit](./Simple-Problem/celsius_to_fahrenheit.py)
 8. [Find Average/Mean](./Simple-Problem/find_average.py)
-<!-- 9. [Find GCD]()
+9. [Find GCD]()
 10. [Find LCM]()
 11. [Find Median]()
-12. [Find Mode]() -->
+12. [Find Mode]()
 
 </div>
