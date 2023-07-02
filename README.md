@@ -1,6 +1,6 @@
 # **Problem Solving** :memo:
 
-## **Simple Problem** :octocat:
+## **Simple Problems** :octocat:
 
 <div style="overflow-y: scroll; height: 200px; scroll-behavior: smooth;">
 
@@ -18,3 +18,5 @@
 12. [Find Mode]()
 
 </div>
+
+## **Array Problems** :hole:
