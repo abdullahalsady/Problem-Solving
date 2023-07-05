@@ -1,0 +1,1 @@
+print(f"Kth smallest element is: {arr[kth - 1]} and Kth largth element is: {arr[length ]}")

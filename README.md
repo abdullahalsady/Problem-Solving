@@ -23,5 +23,8 @@
 
 1. [Find the minimum and maximum elements of an array.](./Array-Problems/min_max_from_array.py)
 2. [Reverse an array.](./Array-Problems/reverse_array.py)
-3. [Find the Kth smallest/largest element in an unsorted array.]()
+3. [Find the Kth smallest/largest element in an unsorted array.](./Array-Problems/find_the_kth_smallest_largest_element.py)
 4. [Find the missing number from the array.]()
+
+
+15. [Find peak element, not smaller than neighbors.](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)
